@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{d449b226-6c48-41a7-8f04-56c93044543f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\game_entities">
+      <UniqueIdentifier>{8f0f8472-a822-40bb-bee4-36fdcab45de0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\game_states">
+      <UniqueIdentifier>{73632e17-36a0-43b2-9e5d-f51b544e0ffd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\game_entities">
+      <UniqueIdentifier>{d0468335-f1a9-4eb0-9258-de37a406abca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\game_states">
+      <UniqueIdentifier>{8c61e680-4de6-45cd-9f6d-73d9b3e58ab1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\game_objects">
+      <UniqueIdentifier>{3ac88dc3-7606-47aa-a31d-659dd0aa5bd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\game_objects">
+      <UniqueIdentifier>{deda6413-7528-4113-bc68-e326eb4b9268}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\hud_element">
+      <UniqueIdentifier>{c0c665e7-089c-4963-ae31-f71d0215ba3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\hud_element">
+      <UniqueIdentifier>{18ec51a2-6ae0-41e4-b0eb-55b4ed8396cf}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ViboritaGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameController.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Apple.cpp">
+      <Filter>Classes\game_entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Block.cpp">
+      <Filter>Classes\game_entities</Filter>
+    </ClCompile>
+    <ClCompile Include="IGameEntity.cpp">
+      <Filter>Classes\game_entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Viborita.cpp">
+      <Filter>Classes\game_entities</Filter>
+    </ClCompile>
+    <ClCompile Include="IGameState.cpp">
+      <Filter>Classes\game_states</Filter>
+    </ClCompile>
+    <ClCompile Include="GamePlay.cpp">
+      <Filter>Classes\game_states</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>Classes\game_states</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingsMenu.cpp">
+      <Filter>Classes\game_states</Filter>
+    </ClCompile>
+    <ClCompile Include="GameStats.cpp">
+      <Filter>Classes\game_objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Settings.cpp">
+      <Filter>Classes\game_objects</Filter>
+    </ClCompile>
+    <ClCompile Include="HudController.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Classes\hud_element</Filter>
+    </ClCompile>
+    <ClCompile Include="Goal.cpp">
+      <Filter>Classes\game_entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.cpp">
+      <Filter>Classes\game_objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Slider.cpp">
+      <Filter>Classes\hud_element</Filter>
+    </ClCompile>
+    <ClCompile Include="pugixml.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelCreator.cpp">
+      <Filter>Classes\game_states</Filter>
+    </ClCompile>
+    <ClCompile Include="IHudElement.cpp">
+      <Filter>Classes\hud_element</Filter>
+    </ClCompile>
+    <ClCompile Include="TextField.cpp">
+      <Filter>Classes\hud_element</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelButton.cpp">
+      <Filter>Classes\hud_element</Filter>
+    </ClCompile>
+    <ClCompile Include="SpikedApple.cpp">
+      <Filter>Classes\game_entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Particle.cpp">
+      <Filter>Classes\game_objects</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleSystem.cpp">
+      <Filter>Classes\game_objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Erasor.cpp">
+      <Filter>Classes\game_entities</Filter>
+    </ClCompile>
+    <ClCompile Include="SaveFile.cpp">
+      <Filter>Classes\game_objects</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameController.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Apple.h">
+      <Filter>Header Files\game_entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Block.h">
+      <Filter>Header Files\game_entities</Filter>
+    </ClInclude>
+    <ClInclude Include="IGameEntity.h">
+      <Filter>Header Files\game_entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Viborita.h">
+      <Filter>Header Files\game_entities</Filter>
+    </ClInclude>
+    <ClInclude Include="IGameState.h">
+      <Filter>Header Files\game_states</Filter>
+    </ClInclude>
+    <ClInclude Include="GamePlay.h">
+      <Filter>Header Files\game_states</Filter>
+    </ClInclude>
+    <ClInclude Include="SettingsMenu.h">
+      <Filter>Header Files\game_states</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu.h">
+      <Filter>Header Files\game_states</Filter>
+    </ClInclude>
+    <ClInclude Include="HudController.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Settings.h">
+      <Filter>Header Files\game_objects</Filter>
+    </ClInclude>
+    <ClInclude Include="GameStats.h">
+      <Filter>Header Files\game_objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Goal.h">
+      <Filter>Header Files\game_entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Header Files\hud_element</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>Header Files\game_objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Slider.h">
+      <Filter>Header Files\hud_element</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelCreator.h">
+      <Filter>Header Files\game_states</Filter>
+    </ClInclude>
+    <ClInclude Include="IHudElement.h">
+      <Filter>Header Files\hud_element</Filter>
+    </ClInclude>
+    <ClInclude Include="TextField.h">
+      <Filter>Header Files\hud_element</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelButton.h">
+      <Filter>Header Files\hud_element</Filter>
+    </ClInclude>
+    <ClInclude Include="SpikedApple.h">
+      <Filter>Header Files\game_entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Erasor.h">
+      <Filter>Header Files\game_entities</Filter>
+    </ClInclude>
+    <ClInclude Include="SaveFile.h">
+      <Filter>Header Files\game_objects</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleSystem.h">
+      <Filter>Header Files\game_objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Particle.h">
+      <Filter>Header Files\game_objects</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
