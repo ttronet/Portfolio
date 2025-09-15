@@ -5,6 +5,6 @@ This is a repository with all my personal projects.
 To play you just need to download the repo and then, open the ViboritaGame.exe.
 
 **notes:**\
-This was a computer graphics course's project with two months of work, and this is the v1.0, so, it's has bugs.
+This was a computer graphics course's project with two months of work made by me and other coworker, and this is the v1.0, so, it's has bugs.
 
 
