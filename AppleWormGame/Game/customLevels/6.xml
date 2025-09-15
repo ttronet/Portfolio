@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Level name="6" maxScore="0" nextLevel="7">
+	<Grid>
+		<GameEntity type="block" x="2" y="1" z="3" />
+		<GameEntity type="block" x="2" y="1" z="4" />
+		<GameEntity type="block" x="2" y="1" z="5" />
+		<GameEntity type="block" x="2" y="1" z="6" />
+		<GameEntity type="block" x="3" y="1" z="3" />
+		<GameEntity type="block" x="3" y="1" z="4" />
+		<GameEntity type="block" x="3" y="1" z="5" />
+		<GameEntity type="block" x="3" y="1" z="6" />
+		<GameEntity type="block" x="4" y="1" z="3" />
+		<GameEntity type="block" x="4" y="1" z="4" />
+		<GameEntity type="block" x="4" y="1" z="5" />
+		<GameEntity type="block" x="4" y="1" z="6" />
+		<GameEntity type="block" x="5" y="1" z="3" />
+		<GameEntity type="block" x="5" y="1" z="4" />
+		<GameEntity type="block" x="5" y="1" z="5" />
+		<GameEntity type="block" x="5" y="1" z="6" />
+	</Grid>
+	<Viborita>
+		<BodyPart x="4" y="2" z="5" />
+		<BodyPart x="4" y="2" z="4" />
+		<BodyPart x="4" y="2" z="3" />
+		<BodyPart x="3" y="2" z="3" />
+		<BodyPart x="2" y="2" z="3" />
+	</Viborita>
+</Level>

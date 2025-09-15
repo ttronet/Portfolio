@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Level name="ejemplo" maxScore="0" nextLevel="">
+	<Grid>
+		<GameEntity type="goal" x="3" y="1" z="2" />
+		<GameEntity type="block" x="4" y="0" z="2" />
+	</Grid>
+	<Viborita>
+		<BodyPart x="4" y="1" z="2" />
+	</Viborita>
+</Level>

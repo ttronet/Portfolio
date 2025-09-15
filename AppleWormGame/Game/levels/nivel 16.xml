@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Level name="nivel 16" maxScore="0" nextLevel="nivel 17">
+	<Grid>
+		<GameEntity type="goal" x="1" y="5" z="6" />
+		<GameEntity type="block" x="1" y="6" z="7" />
+		<GameEntity type="block" x="2" y="5" z="6" />
+		<GameEntity type="block" x="3" y="1" z="4" />
+		<GameEntity type="block" x="3" y="3" z="3" />
+		<GameEntity type="block" x="3" y="4" z="4" />
+		<GameEntity type="spiked_apple" x="3" y="5" z="6" />
+		<GameEntity type="block" x="3" y="6" z="7" />
+		<GameEntity type="block" x="4" y="0" z="1" />
+		<GameEntity type="block" x="4" y="0" z="2" />
+		<GameEntity type="block" x="4" y="0" z="3" />
+		<GameEntity type="block" x="4" y="2" z="3" />
+		<GameEntity type="spiked_apple" x="4" y="2" z="4" />
+		<GameEntity type="block" x="4" y="5" z="3" />
+		<GameEntity type="block" x="4" y="5" z="6" />
+		<GameEntity type="spiked_apple" x="5" y="5" z="2" />
+		<GameEntity type="spiked_apple" x="5" y="5" z="6" />
+		<GameEntity type="block" x="5" y="6" z="2" />
+		<GameEntity type="block" x="5" y="6" z="7" />
+		<GameEntity type="block" x="6" y="5" z="3" />
+		<GameEntity type="block" x="6" y="5" z="6" />
+		<GameEntity type="spiked_apple" x="6" y="6" z="4" />
+		<GameEntity type="spiked_apple" x="6" y="6" z="5" />
+		<GameEntity type="block" x="7" y="6" z="4" />
+		<GameEntity type="block" x="7" y="6" z="5" />
+	</Grid>
+	<Viborita>
+		<BodyPart x="4" y="1" z="3" />
+		<BodyPart x="4" y="1" z="2" />
+		<BodyPart x="4" y="1" z="1" />
+	</Viborita>
+</Level>

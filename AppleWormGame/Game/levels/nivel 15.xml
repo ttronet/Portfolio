@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<Level name="nivel 15" maxScore="9" nextLevel="nivel 16">
+	<Grid>
+		<GameEntity type="apple" x="0" y="1" z="3" />
+		<GameEntity type="block" x="0" y="2" z="1" />
+		<GameEntity type="block" x="0" y="2" z="2" />
+		<GameEntity type="block" x="0" y="3" z="1" />
+		<GameEntity type="block" x="0" y="4" z="1" />
+		<GameEntity type="apple" x="0" y="6" z="7" />
+		<GameEntity type="spiked_apple" x="1" y="3" z="3" />
+		<GameEntity type="block" x="1" y="4" z="1" />
+		<GameEntity type="apple" x="1" y="6" z="5" />
+		<GameEntity type="block" x="1" y="7" z="1" />
+		<GameEntity type="block" x="1" y="7" z="2" />
+		<GameEntity type="block" x="1" y="7" z="3" />
+		<GameEntity type="block" x="1" y="7" z="4" />
+		<GameEntity type="block" x="1" y="7" z="5" />
+		<GameEntity type="block" x="2" y="2" z="2" />
+		<GameEntity type="block" x="2" y="4" z="1" />
+		<GameEntity type="block" x="2" y="4" z="2" />
+		<GameEntity type="block" x="2" y="4" z="3" />
+		<GameEntity type="block" x="2" y="4" z="4" />
+		<GameEntity type="block" x="2" y="5" z="1" />
+		<GameEntity type="block" x="2" y="5" z="2" />
+		<GameEntity type="block" x="2" y="5" z="3" />
+		<GameEntity type="block" x="2" y="7" z="5" />
+		<GameEntity type="block" x="3" y="2" z="2" />
+		<GameEntity type="block" x="3" y="4" z="4" />
+		<GameEntity type="block" x="3" y="5" z="3" />
+		<GameEntity type="block" x="3" y="7" z="5" />
+		<GameEntity type="apple" x="4" y="1" z="3" />
+		<GameEntity type="block" x="4" y="2" z="2" />
+		<GameEntity type="block" x="4" y="4" z="4" />
+		<GameEntity type="block" x="4" y="5" z="3" />
+		<GameEntity type="apple" x="4" y="6" z="3" />
+		<GameEntity type="block" x="4" y="7" z="5" />
+		<GameEntity type="block" x="5" y="0" z="2" />
+		<GameEntity type="apple" x="5" y="1" z="3" />
+		<GameEntity type="block" x="5" y="4" z="4" />
+		<GameEntity type="block" x="5" y="5" z="3" />
+		<GameEntity type="block" x="5" y="6" z="1" />
+		<GameEntity type="block" x="5" y="6" z="2" />
+		<GameEntity type="block" x="5" y="6" z="3" />
+		<GameEntity type="spiked_apple" x="5" y="6" z="4" />
+		<GameEntity type="block" x="5" y="7" z="5" />
+		<GameEntity type="block" x="6" y="0" z="2" />
+		<GameEntity type="spiked_apple" x="6" y="6" z="2" />
+		<GameEntity type="spiked_apple" x="6" y="6" z="3" />
+		<GameEntity type="block" x="7" y="0" z="2" />
+		<GameEntity type="block" x="7" y="6" z="1" />
+		<GameEntity type="block" x="7" y="6" z="2" />
+		<GameEntity type="block" x="7" y="6" z="3" />
+		<GameEntity type="block" x="7" y="6" z="4" />
+		<GameEntity type="block" x="7" y="6" z="5" />
+		<GameEntity type="goal" x="7" y="6" z="6" />
+		<GameEntity type="spiked_apple" x="7" y="6" z="7" />
+		<GameEntity type="apple" x="7" y="7" z="1" />
+	</Grid>
+	<Viborita>
+		<BodyPart x="6" y="1" z="2" />
+		<BodyPart x="7" y="1" z="2" />
+	</Viborita>
+</Level>

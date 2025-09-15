@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<Level name="nivel 11" maxScore="35" nextLevel="nivel 12">
+	<Grid>
+		<GameEntity type="apple" x="1" y="6" z="4" />
+		<GameEntity type="apple" x="1" y="7" z="4" />
+		<GameEntity type="apple" x="1" y="7" z="5" />
+		<GameEntity type="apple" x="2" y="2" z="0" />
+		<GameEntity type="apple" x="2" y="2" z="1" />
+		<GameEntity type="apple" x="2" y="3" z="1" />
+		<GameEntity type="apple" x="2" y="3" z="2" />
+		<GameEntity type="apple" x="2" y="3" z="3" />
+		<GameEntity type="apple" x="2" y="6" z="4" />
+		<GameEntity type="apple" x="2" y="7" z="5" />
+		<GameEntity type="apple" x="3" y="2" z="0" />
+		<GameEntity type="apple" x="3" y="2" z="3" />
+		<GameEntity type="apple" x="3" y="3" z="3" />
+		<GameEntity type="apple" x="3" y="5" z="4" />
+		<GameEntity type="apple" x="3" y="6" z="4" />
+		<GameEntity type="apple" x="3" y="7" z="5" />
+		<GameEntity type="apple" x="4" y="2" z="0" />
+		<GameEntity type="apple" x="4" y="2" z="3" />
+		<GameEntity type="apple" x="4" y="2" z="4" />
+		<GameEntity type="apple" x="4" y="2" z="5" />
+		<GameEntity type="apple" x="4" y="3" z="5" />
+		<GameEntity type="apple" x="4" y="4" z="4" />
+		<GameEntity type="apple" x="4" y="4" z="5" />
+		<GameEntity type="apple" x="4" y="5" z="4" />
+		<GameEntity type="apple" x="4" y="6" z="5" />
+		<GameEntity type="apple" x="4" y="7" z="5" />
+		<GameEntity type="apple" x="5" y="2" z="0" />
+		<GameEntity type="apple" x="5" y="6" z="5" />
+		<GameEntity type="apple" x="6" y="6" z="5" />
+		<GameEntity type="block" x="7" y="0" z="0" />
+		<GameEntity type="block" x="7" y="1" z="0" />
+		<GameEntity type="block" x="7" y="2" z="0" />
+		<GameEntity type="block" x="7" y="3" z="0" />
+		<GameEntity type="block" x="7" y="4" z="0" />
+		<GameEntity type="block" x="7" y="5" z="0" />
+		<GameEntity type="block" x="7" y="6" z="0" />
+		<GameEntity type="apple" x="7" y="6" z="1" />
+		<GameEntity type="apple" x="7" y="6" z="2" />
+		<GameEntity type="apple" x="7" y="6" z="3" />
+		<GameEntity type="apple" x="7" y="6" z="4" />
+		<GameEntity type="apple" x="7" y="6" z="5" />
+		<GameEntity type="goal" x="7" y="7" z="1" />
+	</Grid>
+	<Viborita>
+		<BodyPart x="6" y="2" z="0" />
+		<BodyPart x="6" y="3" z="0" />
+		<BodyPart x="6" y="4" z="0" />
+		<BodyPart x="6" y="5" z="0" />
+		<BodyPart x="6" y="6" z="0" />
+		<BodyPart x="6" y="7" z="0" />
+		<BodyPart x="7" y="7" z="0" />
+	</Viborita>
+</Level>

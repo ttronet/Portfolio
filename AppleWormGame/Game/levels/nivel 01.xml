@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Level name="nivel 1" maxScore="1" nextLevel="nivel 2">
+	<Grid>
+		<GameEntity type="goal" x="1" y="1" z="0" />
+		<GameEntity type="block" x="2" y="0" z="0" />
+		<GameEntity type="block" x="3" y="0" z="0" />
+		<GameEntity type="apple" x="4" y="1" z="0" />
+		<GameEntity type="block" x="5" y="0" z="0" />
+		<GameEntity type="block" x="6" y="0" z="0" />
+	</Grid>
+	<Viborita>
+		<BodyPart x="6" y="1" z="0" />
+	</Viborita>
+</Level>

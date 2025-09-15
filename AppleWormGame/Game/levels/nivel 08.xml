@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Level name="nivel 8" maxScore="0" nextLevel="nivel 9">
+	<Grid>
+		<GameEntity type="block" x="1" y="0" z="0" />
+		<GameEntity type="goal" x="0" y="1" z="0" />
+		<GameEntity type="block" x="2" y="0" z="0" />
+		<GameEntity type="block" x="3" y="0" z="0" />
+		<GameEntity type="spiked_apple" x="3" y="1" z="0" />
+		<GameEntity type="block" x="4" y="0" z="0" />
+		<GameEntity type="block" x="5" y="0" z="0" />
+	</Grid>
+	<Viborita>
+		<BodyPart x="5" y="1" z="0" />
+		<BodyPart x="6" y="1" z="0" />
+		<BodyPart x="7" y="1" z="0" />
+		<BodyPart x="7" y="1" z="1" />
+	</Viborita>
+</Level>
