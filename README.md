@@ -36,6 +36,7 @@ Resident: Upload and manage their training activities.
 The Teaching Staff and Surgeons are able to certify the activities, thereby validating the information uploaded by the residents.
 
 **notes:**\
-I worked as a member from the software development team, in the frontend.
+* I worked as a member from the software development team, in the frontend.
+* It's a responsive application with desktop and mobile views.  
 
 
