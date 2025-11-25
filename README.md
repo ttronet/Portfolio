@@ -37,6 +37,7 @@ The Teaching Staff and Surgeons are able to certify the activities, thereby vali
 
 **notes:**
 * I worked as a member from the software development team, in the frontend.
-* It's a responsive application with desktop and mobile views.  
+* It's a responsive application with desktop and mobile views.
+* We used Ant Design for the front.  
 
 
